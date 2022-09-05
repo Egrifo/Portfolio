@@ -1,0 +1,34 @@
+[
+  {
+    "hexa": "#fc5f45;",
+    "title": "Predictive Analytics - Living Habits",
+    "description": "https://domusmart.herokuapp.com",
+    "image": "https://ik.imagekit.io/6iae3ghmq/PORTFOLIO/example09.png"
+  },
+  {
+    "hexa": "#38c695;",
+    "title": "Predictive Analytics - Public Sector & Tenders",
+    "description": "https://www.datagentibus.co.uk",
+    "image": "https://ik.imagekit.io/6iae3ghmq/PORTFOLIO/example07.png"
+  },
+  {
+    "hexa": "#b27cf5",
+    "title": "Predictive Analytics - Maintenance Services",
+    "description": "https://www.datagentibus.co.uk",
+    "image": "https://ik.imagekit.io/6iae3ghmq/PORTFOLIO/example08.png"
+  },
+
+  {
+    "hexa": "#feb960;",
+    "title": "Predictive Analytics - Marketing",
+    "description": "https://www.scialatti.co.uk",
+    "image": "https://ik.imagekit.io/6iae3ghmq/PORTFOLIO/example10.png"
+  },
+
+  {
+    "hexa": "#1D1148",
+    "title": "Real Estate - Cost Tracking  ",
+    "description": "http://domusmart.herokuapp.com/",
+    "image": "https://ik.imagekit.io/6iae3ghmq/domusmart.png"
+  }
+]
